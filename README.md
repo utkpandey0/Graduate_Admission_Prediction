@@ -31,7 +31,8 @@ Indicates if the student has prior research experience (1 = Yes, 0 = No).
 **Chance of Admit** (0 to 1):
 Target variable. Predicted probability of getting admission.
 
-###Tools & Libraries Used:
+<u> Tools & Libraries Used: </u>
+
 Python
 
 TensorFlow / Keras
